@@ -5,6 +5,10 @@ This is a module for OnePlus Ace 5 owners, for fix camera functionality, correct
 
 这是一个适用于一加 Ace 5用户的模块，用于在转换到OxygenOS 16后修复相机功能，更正电池信息及设备名称。
 
+tip: My forked branch repository is for personal use, and due to limited time and energy, I will only prioritize updating it for situations where I encounter problems. If a system update does not affect usage and someone else has created a new version of the module, I will not update it.
+
+注意：我的fork分支仓库为自用版本，且个人时间精力有限，仅优先针对自己遇到无法使用的情况进行更新。如果系统更新不影响使用且有人制作该模块的新版本，将不会进行更新。
+
 ### KernelSU
 
 + Recommended KernelSU v3.0.0 or above
